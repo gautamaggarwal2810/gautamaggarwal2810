@@ -4,7 +4,7 @@
 
 <h3 align="center">Welcome to my space. I'm an Enthusiastic Software Developer from India ❤</h3>
   
-I am a Computer Science Undergraduate student from Thapar Institute of Engineering and Technology, Patiala. I'm skilled in React js and AWS. I am passionate about developing softwares that can solve real world problems.  I love to explore and learn about new technologies.
+I am a Computer Science Undergraduate student from Thapar Institute of Engineering and Technology, Patiala. I'm skilled in React js and AWS. I am passionate about developing softwares that can solve real world problems.  I love to explore and learn about new technologies. Beside's programming, I enjoy playing cricket and reading novels.
 
 
 
